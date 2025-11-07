@@ -1,6 +1,73 @@
-# React + TypeScript + Vite
+# 🎮 Tic-Tac-Toe Game (○×ゲーム)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive Tic-Tac-Toe game built with React, TypeScript, and Vite.
+
+## 🌐 Live Demo
+
+Visit the live game: [https://kazu1999-3.github.io/tic-tac-toe-game/](https://kazu1999-3.github.io/tic-tac-toe-game/)
+
+## ✨ Features
+
+- 🎯 Classic Tic-Tac-Toe gameplay
+- 🏆 Winner detection with visual highlighting
+- 🔄 Game reset functionality
+- 📱 Fully responsive design
+- ✨ Smooth animations and transitions
+- 🎨 Beautiful gradient UI
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 20.x or higher
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/kazu1999-3/tic-tac-toe-game.git
+
+# Navigate to project directory
+cd tic-tac-toe-game
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 🛠️ Tech Stack
+
+- **React** - UI library
+- **TypeScript** - Type safety
+- **Vite** - Build tool
+- **CSS3** - Styling and animations
+
+## 📦 Available Scripts
+
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run preview  # Preview production build
+npm run lint     # Run ESLint
+```
+
+## 🎮 How to Play
+
+1. Players take turns clicking on empty cells
+2. First player is X, second player is O
+3. Get three in a row (horizontally, vertically, or diagonally) to win
+4. Click "リセット" to start a new game
+
+## 📄 License
+
+MIT
+
+---
+
+Built with React + TypeScript + Vite
 
 Currently, two official plugins are available:
 
